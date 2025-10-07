@@ -229,7 +229,7 @@ GATK FastQC BWA-MEM SnpEff Antimicrobial Resistance
 Annotation Comparative Genomics Bacterial Genomics
 
 📄 Project Report
-📘 Variant Analysis Project.pdf  (GITHUB).pdf
+📘https://github.com/DEBOPRIYA2320/pseudomonas-wgs-variant-analysis/blob/161746e4344d3f8d459bb355bfb8470c6dc61dd7/Variant%20Analysis%20Project.pdf%20%20(GITHUB).pdf
 
 👩‍💻 Author
 
