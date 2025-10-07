@@ -220,12 +220,16 @@ Alignment	BWA-MEM, SAMtools
 Variant Calling	GATK (HaplotypeCaller)
 Annotation	SnpEff
 Comparative Analysis	NCBI Pathogen Detection Browser
-Environment	Linux, Bash CLI
+Environment	Linux, Bash 
+
 🧾 Keywords
 
 Bioinformatics Whole Genome Sequencing Variant Calling Pseudomonas aeruginosa
 GATK FastQC BWA-MEM SnpEff Antimicrobial Resistance
 Annotation Comparative Genomics Bacterial Genomics
+
+📄 Project Report
+📘 Variant Analysis Project.pdf  (GITHUB).pdf
 
 👩‍💻 Author
 
