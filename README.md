@@ -235,10 +235,11 @@ Annotation Comparative Genomics Bacterial Genomics
 
 Debopriya
 Bioinformatics & Genomics Enthusiast
+🔗 GitHub Profile (https://github.com/DEBOPRIYA2320)
 
-🔗 https://github.com/DEBOPRIYA2320
-
-📧 debopriya0920@gmail.com
+🔗 LinkedIn (www.linkedin.com/in/debopriya2320)
+ 
+- Email: debopriya2320@example.com
 
 📜 License
 
